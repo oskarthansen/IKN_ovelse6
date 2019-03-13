@@ -1,0 +1,11 @@
+C:/Users/oskar/OneDrive - Aarhus universitet/4. semester/IKN (Introduktion til kommunikationsnetværk)/4.1 (Socket programmering)/Exercise_6_c#/LIB/bin/Debug/LIB.dll
+C:/Users/oskar/OneDrive - Aarhus universitet/4. semester/IKN (Introduktion til kommunikationsnetværk)/4.1 (Socket programmering)/Exercise_6_c#/LIB/bin/Debug/LIB.pdb
+C:/Users/oskar/OneDrive - Aarhus universitet/4. semester/IKN (Introduktion til kommunikationsnetværk)/4.1 (Socket programmering)/Exercise_6_c#/LIB/obj/Debug/LIB.csproj.CoreCompileInputs.cache
+C:/Users/oskar/OneDrive - Aarhus universitet/4. semester/IKN (Introduktion til kommunikationsnetværk)/4.1 (Socket programmering)/Exercise_6_c#/LIB/obj/Debug/LIB.dll
+C:/Users/oskar/OneDrive - Aarhus universitet/4. semester/IKN (Introduktion til kommunikationsnetværk)/4.1 (Socket programmering)/Exercise_6_c#/LIB/obj/Debug/LIB.pdb
+/root/Documents/OPG6-IKN/Exercise_6_c#/LIB/bin/Debug/LIB.dll
+/root/Documents/OPG6-IKN/Exercise_6_c#/LIB/bin/Debug/LIB.pdb
+/root/Documents/OPG6-IKN/Exercise_6_c#/LIB/obj/Debug/LIB.csproj.CoreCompileInputs.cache
+/root/Documents/OPG6-IKN/Exercise_6_c#/LIB/obj/Debug/LIB.dll
+/root/Documents/OPG6-IKN/Exercise_6_c#/LIB/obj/Debug/LIB.pdb
+/root/Documents/OPG6-IKN/Exercise_6_c#/LIB/obj/Debug/LIB.csprojResolveAssemblyReference.cache
