@@ -1,0 +1,9 @@
+C:\Users\oskar\OneDrive - Aarhus universitet\4. semester\IKN (Introduktion til kommunikationsnetværk)\4.1 (Socket programmering)\Exercise_6_c#\file_server\bin\Debug\file_server.exe
+C:\Users\oskar\OneDrive - Aarhus universitet\4. semester\IKN (Introduktion til kommunikationsnetværk)\4.1 (Socket programmering)\Exercise_6_c#\file_server\bin\Debug\file_server.pdb
+C:\Users\oskar\OneDrive - Aarhus universitet\4. semester\IKN (Introduktion til kommunikationsnetværk)\4.1 (Socket programmering)\Exercise_6_c#\file_server\bin\Debug\LIB.dll
+C:\Users\oskar\OneDrive - Aarhus universitet\4. semester\IKN (Introduktion til kommunikationsnetværk)\4.1 (Socket programmering)\Exercise_6_c#\file_server\bin\Debug\LIB.pdb
+C:\Users\oskar\OneDrive - Aarhus universitet\4. semester\IKN (Introduktion til kommunikationsnetværk)\4.1 (Socket programmering)\Exercise_6_c#\file_server\obj\x86\Debug\file_server.csprojAssemblyReference.cache
+C:\Users\oskar\OneDrive - Aarhus universitet\4. semester\IKN (Introduktion til kommunikationsnetværk)\4.1 (Socket programmering)\Exercise_6_c#\file_server\obj\x86\Debug\file_server.csproj.CoreCompileInputs.cache
+C:\Users\oskar\OneDrive - Aarhus universitet\4. semester\IKN (Introduktion til kommunikationsnetværk)\4.1 (Socket programmering)\Exercise_6_c#\file_server\obj\x86\Debug\file_server.csproj.CopyComplete
+C:\Users\oskar\OneDrive - Aarhus universitet\4. semester\IKN (Introduktion til kommunikationsnetværk)\4.1 (Socket programmering)\Exercise_6_c#\file_server\obj\x86\Debug\file_server.exe
+C:\Users\oskar\OneDrive - Aarhus universitet\4. semester\IKN (Introduktion til kommunikationsnetværk)\4.1 (Socket programmering)\Exercise_6_c#\file_server\obj\x86\Debug\file_server.pdb
